@@ -42,5 +42,6 @@ In the spirit of making this a learning project, extensive comments and document
 
 As a personal project, goose.SSL is a continual work-in-progress. Future plans include refining the code, adding more features, and conducting rigorous security audits.
 
-By embarking on this challenging project, I hope to acquire a deep and thorough understanding of secure network communications, while also adding a significant project to my portfolio. Although it starts as a personal venture, the hope is that goose.SSL may evolve into a community-supported, open-source project.
+By embarking on this challenging project, I hope to acquire a deep and thorough understanding of secure network communications, while also adding a significant project to my portfolio.
 
+## Please don't actually use in a production project
